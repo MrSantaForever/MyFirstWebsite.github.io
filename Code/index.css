@@ -1,48 +1,16 @@
 body {
   background: #00FFFF url(bgimg.png) no-repeat scroll top right;
   /*background: background-color background-image background-repeat background-attachment background-position;*/
+  /*background-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value;*/
+  /*background-image: url(image)|none|conic-gradient()|linear-gradient()|radial-gradient()|repeating-conic-gradient()|repeating-linear-gradient()|repeating-radial-gradient()|initial|inherit;*/
+  /*background-repeat: repeat|repeat-x|repeat-y|no-repeat|space|round|initial|inherit;*/
+  /*background-position: left top|left center|left bottom|right top|right center|right bottom|center top|center center|center bottom|x% y%|xpx ypx|x% ypx|xpx y%|initial|inherit;*/
+  /*background-attachment: scroll|fixed|local|initial|inherit;*/
+  /*background-origin: padding-box|border-box|content-box|initial|inherit;*/
+  /*background-clip: padding-box|border-box|content-box|initial|inherit;*/
 }
 
-p.dotted {
-  border-style: dotted;
-}
-
-p.dashed {
-  border-style: dashed;
-}
-
-p.solid {
-  border-style: solid;
-}
-
-p.double {
-  border-style: double;
-}
-
-p.groove {
-  border-style: groove;
-}
-
-p.ridge {
-  border-style: ridge;
-}
-
-p.inset {
-  border-style: inset;
-}
-
-p.outset {
-  border-style: outset;
-}
-
-p.none {
-  border-style: none;
-}
-
-p.hidden {
-  border-style: hidden;
-}
-
-p.mix {
-  border-style: dotted dashed solid double;
+p {
+  /*border-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
+  /*border-width: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] thin|medium|thick|px|initial|inherit;*/
 }
