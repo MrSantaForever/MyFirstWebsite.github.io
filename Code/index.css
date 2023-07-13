@@ -1,4 +1,5 @@
 body {
+  
   background: #00FFFF url(bgimg.png) scroll no-repeat top right;
   /*background: background-color background-image background-position/background-size background-repeat background-origin background-clip background-attachment|initial|inherit;*/
   /*background-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
@@ -15,23 +16,29 @@ body {
   
   border: #FF00FF groove thick;
   /*border: border-width border-style border-color|initial|inherit;*/
-  
   /*border-style: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
-  /*border-top-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
-  /*border-right-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
-  /*border-bottom-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
-  /*border-left-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
-  
   /*border-width: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] thin|medium|thick|px|initial|inherit;*/
-  /*border-top-width: thin|medium|thick|px|initial|inherit;*/
-  /*border-right-width: thin|medium|thick|px|initial|inherit;*/
-  /*border-bottom-width: thin|medium|thick|px|initial|inherit;*/
-  /*border-left-width: thin|medium|thick|px|initial|inherit;*/
-  
   /*border-color: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  
+  
+  /*border-top: border-top-style border-top-width border-top-color*/
+  /*border-top-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
+  /*border-top-width: thin|medium|thick|px|initial|inherit;*/
   /*border-top-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  
+  /*border-right: border-right-style border-right-width border-right-color*/
+  /*border-right-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
   /*border-right-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  /*border-right-width: thin|medium|thick|px|initial|inherit;*/
+  
+  /*border-bottom: border-bottom-style border-bottom-width border-bottom-color*/
+  /*border-bottom-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
+  /*border-bottom-width: thin|medium|thick|px|initial|inherit;*/
   /*border-bottom-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  
+  /*border-left: border-left-style border-left-width border-left-color*/
+  /*border-left-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
+  /*border-left-width: thin|medium|thick|px|initial|inherit;*/
   /*border-left-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
   
   
