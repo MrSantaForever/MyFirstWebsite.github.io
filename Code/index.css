@@ -1,6 +1,6 @@
 body {
-  background: #00FFFF url(bgimg.png) no-repeat scroll top right;
-  /*background: background-color background-image background-repeat background-attachment background-position;*/
+  background: #00FFFF url(bgimg.png) scroll no-repeat top right;
+  /*background: background-color background-image background-position/background-size background-repeat background-origin background-clip background-attachment|initial|inherit;*/
   /*background-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
   /*background-image: url(image)|none|conic-gradient()|linear-gradient()|radial-gradient()|repeating-conic-gradient()|repeating-linear-gradient()|repeating-radial-gradient()|initial|inherit;*/
   /*background-repeat: repeat|repeat-x|repeat-y|no-repeat|space|round|initial|inherit;*/
