@@ -67,6 +67,20 @@ body {
   /*padding-left: px|%|auto|initial|inherit;*/
   
   
+  height: auto;
+  /*height: auto|px|%|initial|inherit;*/
+  max-height: auto;
+  /*max-height: auto|px|%|initial|inherit;*/
+  min-height: auto;
+  /*min-height: auto|px|%|initial|inherit;*/
   
-  /*
+  
+  width: auto;
+  /*width: auto|px|%|initial|inherit;*/
+  max-width: auto;
+  /*max-width: auto|px|%|initial|inherit;*/
+  min-width: auto;
+  /*min-width: auto|px|%|initial|inherit;*/
+
+  
 }
