@@ -1,7 +1,7 @@
 body {
   background: #00FFFF url(bgimg.png) no-repeat scroll top right;
   /*background: background-color background-image background-repeat background-attachment background-position;*/
-  /*background-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value;*/
+  /*background-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
   /*background-image: url(image)|none|conic-gradient()|linear-gradient()|radial-gradient()|repeating-conic-gradient()|repeating-linear-gradient()|repeating-radial-gradient()|initial|inherit;*/
   /*background-repeat: repeat|repeat-x|repeat-y|no-repeat|space|round|initial|inherit;*/
   /*background-position: left top|left center|left bottom|right top|right center|right bottom|center top|center center|center bottom|x% y%|xpx ypx|x% ypx|xpx y%|initial|inherit;*/
