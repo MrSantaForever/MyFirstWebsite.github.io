@@ -42,5 +42,23 @@ body {
   /*border-left-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
   
   
+  border-radius: 100px 100px 5px 100px;
+  /*border-radius: [top-left top-right bottom-right bottom-left|top-left top-right_bottom-left bottom-right|top-left_bottom-right top-right_bottom-left|all-sides] px|%|initial|inherit;*/
+    /*Syntax= "border-radius: {1-4}Length-Percentage [/{1-4}Length-Percentage]?;" */
+  /*border-top-left-radius: px|px/px|%|%/%|px/%|%/px|initial|inherit;*/
+  /*border-top-right-radius: px|px/px|%|%/%|px/%|%/px|initial|inherit;*/
+  /*border-bottom-right-radius: px|px/px|%|%/%|px/%|%/px|initial|inherit;*/
+  /*border-bottom-left-radius: px|px/px|%|%/%|px/%|%/px|initial|inherit;*/
   
+  
+  margin: 10px;
+  /*margin: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] px|%|auto|initial|inherit;*/
+  /*margin-top: px|%|auto|initial|inherit;*/
+  /*margin-right: px|%|auto|initial|inherit;*/
+  /*margin-bottom: px|%|auto|initial|inherit;*/
+  /*margin-left: px|%|auto|initial|inherit;*/
+  
+  
+  padding: 5px 10px 10px 5px;
+  /*padding: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] px|%|auto|initial|inherit;*/
 }
