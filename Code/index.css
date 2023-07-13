@@ -8,9 +8,8 @@ body {
   /*background-attachment: scroll|fixed|local|initial|inherit;*/
   /*background-origin: padding-box|border-box|content-box|initial|inherit;*/
   /*background-clip: padding-box|border-box|content-box|initial|inherit;*/
-}
-
-p {
+  
+  border: 
   /*border-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
   /*border-width: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] thin|medium|thick|px|initial|inherit;*/
 }
