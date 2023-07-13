@@ -8,6 +8,9 @@ body {
   /*background-attachment: scroll|fixed|local|initial|inherit;*/
   /*background-origin: padding-box|border-box|content-box|initial|inherit;*/
   /*background-clip: padding-box|border-box|content-box|initial|inherit;*/
+  /*background-size: auto|xpx|ypx|xpx ypx|x%|y%|x% y%|cover|contain|initial|inherit;*/
+  /*background-position-x: left|right|center|xpx|x%|initial|inherit;*/
+  /*background-position-y: left|right|center|ypx|y%|initial|inherit;*/
   
   border: 
   /*border-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
