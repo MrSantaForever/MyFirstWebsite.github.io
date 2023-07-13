@@ -61,4 +61,12 @@ body {
   
   padding: 5px 10px 10px 5px;
   /*padding: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] px|%|auto|initial|inherit;*/
+  /*padding-top: px|%|auto|initial|inherit;*/
+  /*padding-right: px|%|auto|initial|inherit;*/
+  /*padding-bottom: px|%|auto|initial|inherit;*/
+  /*padding-left: px|%|auto|initial|inherit;*/
+  
+  
+  
+  /*
 }
