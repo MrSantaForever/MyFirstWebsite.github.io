@@ -16,7 +16,7 @@ body {
   
   border: #FF00FF groove thick;
   /*border: border-width border-style border-color|initial|inherit;*/
-  /*border-style: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden;*/
+  /*border-style: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden|initial|inherit;*/
   /*border-width: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] thin|medium|thick|px|initial|inherit;*/
   /*border-color: [top right bottom left|top left-right bottom|top-bottom left-right|all-sides] color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
   
@@ -81,6 +81,19 @@ body {
   /*max-width: auto|px|%|initial|inherit;*/
   min-width: auto;
   /*min-width: auto|px|%|initial|inherit;*/
-
   
+  
+  outline: dotted 2px purple;
+  /*outline: outline-style outline-width outline-color|initial|inherit;*/
+  /*outline-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden|initial|inherit;*/
+  /*outline-width: thin|medium|thick|px|initial|inherit;*/
+  /*outline-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  outline-offset: initial;
+  /*outline-offset: px|initial|inherit;*/
+  
+  
+  color: brown;
+  /*color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  text-align: initial;
+  /*text-align: left|center|right|justify|initial|inherit;*/
 }
