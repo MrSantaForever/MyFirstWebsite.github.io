@@ -69,18 +69,24 @@ body {
   
   height: auto;
   /*height: auto|px|%|initial|inherit;*/
+  
   max-height: auto;
   /*max-height: auto|px|%|initial|inherit;*/
+  
   min-height: auto;
   /*min-height: auto|px|%|initial|inherit;*/
   
   
+  
   width: auto;
   /*width: auto|px|%|initial|inherit;*/
+  
   max-width: auto;
   /*max-width: auto|px|%|initial|inherit;*/
+  
   min-width: auto;
   /*min-width: auto|px|%|initial|inherit;*/
+  
   
   
   outline: dotted 2px purple;
@@ -88,12 +94,28 @@ body {
   /*outline-style: dotted|dashed|solid|double|groove|ridge|inset|outset|none|hidden|initial|inherit;*/
   /*outline-width: thin|medium|thick|px|initial|inherit;*/
   /*outline-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
+  
   outline-offset: initial;
   /*outline-offset: px|initial|inherit;*/
   
+
   
   color: brown;
   /*color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
-  text-align: initial;
+  
+  text-align: left;
   /*text-align: left|center|right|justify|initial|inherit;*/
+  
+  text-align-last: justify;
+  /*text-align-last: auto|left|right|center|justify|start|end|initial|inherit;*/
+  
+  direction: rtl;
+  /*direction: ltr|rtl|initial|inherit;*/
+  
+  unicode-bidi: embed;
+  /*unicode-bidi: normal|embed|bidi-override|initial|inherit;*/
+  
+  vertical-align: 5%;
+  /*vertical-align: baseline|px|%|sub|super|top|text-top|middle|bottom|text-bottom|initial|inherit;*/
+  
 }
