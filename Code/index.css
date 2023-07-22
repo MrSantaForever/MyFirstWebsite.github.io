@@ -120,12 +120,16 @@ body {
   
   
   
-  text-decoration: none 
+  text-decoration: none;
   /*text-decoration: text-decoration-line text-decoration-color text-decoration-style text-decoration-thickness|initial|inherit;*/
   /*text-decoration-line: none|underline|overline|line-through|initial|inherit;*/
   /*text-decoration-color: color-name|HEX-value|RGB-value|HSL-value|RGBA-value|HSLA-value|transparent|initial|inherit;*/
   /*text-decoration-style: solid|double|dotted|dashed|wavy|initial|inherit;*/
   /*text-decoration-thickness: auto|from-font|px|%|initial|inherit;*/
-    
-    
+  
+  
+  
+  text-tranform: none;
+  /*text-transform: none|capitalize|uppercase|lowercase|initial|inherit*/
+  
 }
