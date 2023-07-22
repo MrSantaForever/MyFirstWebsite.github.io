@@ -132,4 +132,13 @@ body {
   text-tranform: none;
   /*text-transform: none|capitalize|uppercase|lowercase|initial|inherit*/
   
+  letter-spacing: inherit;
+  /*letter-spacing: normal|length|initial|inherit;*/
+
+  line-height: inherit;
+  /*line-height: normal|number|length|initial|inherit;*/
+  
+  text-indent: inherit;
+  /*text-indent: length|initial|inherit;*/
+  
 }
