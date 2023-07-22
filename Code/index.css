@@ -141,4 +141,6 @@ body {
   text-indent: inherit;
   /*text-indent: length|initial|inherit;*/
   
+  white-space: inherit;
+  /*white-space: normal|nowrap|pre|pre-line|pre-wrap|initial|inherit;*/
 }
