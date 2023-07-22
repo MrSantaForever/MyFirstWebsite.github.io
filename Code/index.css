@@ -122,6 +122,7 @@ body {
   
   text-decoration:
   /*text-decoration: text-decoration-line text-decoration-color text-decoration-style text-decoration-thickness|initial|inherit;*/
-  
   /*text-decoration-line: none|underline|overline|line-through|initial|inherit;*/
+  /*text-decoration-color: |initial|inherit;*/
+    
 }
