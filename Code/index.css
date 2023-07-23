@@ -134,7 +134,7 @@ body {
   
   letter-spacing: inherit;
   /*letter-spacing: normal|length|initial|inherit;*/
-
+  
   line-height: inherit;
   /*line-height: normal|number|length|initial|inherit;*/
   
@@ -143,4 +143,18 @@ body {
   
   white-space: inherit;
   /*white-space: normal|nowrap|pre|pre-line|pre-wrap|initial|inherit;*/
+  
+  text-shadow: 1px 1px 4px black;
+  /*text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;*/
+  
+  font-style: inherit;
+  /*font-style: normal|italic|oblique|initial|inherit;*/
+  
+  font-weight: inherit;
+  /*font-weight: normal|bold|bolder|lighter|number|initial|inherit;*/
+  
+  font-variant: inherit;
+  /*font-variant: normal|small-caps|initial|inherit;*/
+  
+  
 }
