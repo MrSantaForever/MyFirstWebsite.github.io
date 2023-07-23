@@ -147,14 +147,13 @@ body {
   text-shadow: 1px 1px 4px black;
   /*text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;*/
   
-  font-style: inherit;
+  font: inherit;
+  /*font: font-style font-variant font-weight font-size/line-height font-family|caption|icon|menu|message-box|small-caption|status-bar|initial|inherit;*/
   /*font-style: normal|italic|oblique|initial|inherit;*/
-  
-  font-weight: inherit;
   /*font-weight: normal|bold|bolder|lighter|number|initial|inherit;*/
-  
-  font-variant: inherit;
   /*font-variant: normal|small-caps|initial|inherit;*/
+  /*font-size:medium|xx-small|x-small|small|large|x-large|xx-large|smaller|larger|px|%|initial|inherit;*/
+  /*font-family: family-name|generic-family|initial|inherit;*/
   
   
 }
